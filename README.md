@@ -19,7 +19,7 @@ This project is a digital trivia game where players compete by pressing physical
 - LED feedback for spin, win, lose, and reset states
 - Web interface for displaying questions and answers
 
-## Technologies Used
+## Tech Stack
 
 - Node.js
 - JavaScript
