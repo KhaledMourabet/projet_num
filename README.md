@@ -64,5 +64,5 @@ This project was made possible through the hard work, dedication, and teamwork o
 - **Khaled Mourabet**
 - **Hadi Bou Chebel**
 - **Rudy Karim**
-- 
+
 We are proud of what we accomplished together.
