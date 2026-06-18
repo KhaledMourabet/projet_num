@@ -54,8 +54,6 @@ Clone the repository:
 git clone https://github.com/KhaledMourabet/projet_num.git
 cd projet_num
 ```
-git clone https://github.com/KhaledMourabet/projet_num.git
-cd projet_num
 
 ## Acknowledgments
 
